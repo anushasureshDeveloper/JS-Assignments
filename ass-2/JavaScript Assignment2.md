@@ -15,3 +15,5 @@
 ### bird =switch 
 ### console. log(fish="swim")
 ### console. log(bird="fly")
+## Screenshot:
+### ![screenshot](./Screenshot.png)
